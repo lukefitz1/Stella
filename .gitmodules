@@ -1,0 +1,3 @@
+[submodule "Stella/vendor/spdlog"]
+	path = Stella/vendor/spdlog
+	url = https://github.com/gabime/spdlog
